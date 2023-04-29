@@ -1,6 +1,7 @@
 from lxml.html import fromstring
 import requests
 import traceback
+import pyfontslibv2
 
 def get_proxies():
     url = 'https://sslproxies.org/'
