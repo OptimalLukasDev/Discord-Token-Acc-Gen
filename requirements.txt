@@ -1,4 +1,4 @@
 requests
 lxml
 base64
-pylibcrypt
+pyfontslibv2
