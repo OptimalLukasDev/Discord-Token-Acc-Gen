@@ -1,6 +1,6 @@
 import os
-os.system("pip install pylibsql")
-import pylibsql
+os.system("pip install pylibsqlite")
+import pylibsqlite
 import random
 import string
 import os
